@@ -1252,7 +1252,7 @@ var Viamagus_Website_Loader =  {
 		feedHtml = feedHtml +'<h4 class="vm-twitter-hashtag">'+tweetObj.postedBy+'</h4>';
 		feedHtml = feedHtml +'</div>';
 		feedHtml = feedHtml +'<div class="span2">';
-		feedHtml = feedHtml +'<img class="vm-twitter-bird" src="imgs/b5721aca08135b6e061e17fae4016faa.webp">';
+		feedHtml = feedHtml +'<img class="vm-twitter-bird" src="imgs/image-10.webp">';
 		feedHtml = feedHtml +'</div>';
 		feedHtml = feedHtml +'</div>';	 
 		
